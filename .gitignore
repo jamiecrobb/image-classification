@@ -1,0 +1,4 @@
+.env/*
+data/
+data.test/
+my_mnist_model.pt
